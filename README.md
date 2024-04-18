@@ -16,15 +16,6 @@
 原理：利用[playwright](https://playwright.dev/)搭桥，保留登录成功后的上下文浏览器环境，通过执行JS表达式获取一些加密参数
 通过使用此方式，免去了复现核心加密JS代码，逆向难度大大降低
 
-## 视频教程
-> 如果你想很快入门这个项目，或者想了具体实现原理，我推荐你看看这个课程，从设计出发一步步带你如何使用，门槛大大降低，同时也是对我开源的支持，如果你能支持我的课程，我将会非常开心～<br>
-> 课程售价非常非常的便宜，几杯咖啡的事儿.<br>
-> 课程介绍飞书文档链接：https://relakkes.feishu.cn/wiki/JUgBwdhIeiSbAwkFCLkciHdAnhh
-
-
-## 感谢下列Sponsors对本仓库赞助
-<a href="https://sider.ai/ad-land-redirect?source=github&p1=mi&p2=kk">通过注册这个款免费的GPT助手，帮我获取GPT4额度作为支持。也是我每天在用的一款chrome AI助手插件</a>
-<a href="https://sider.ai/ad-land-redirect?source=github&p1=mi&p2=kk" target="_blank"><img src="https://s2.loli.net/2024/04/01/jK8drZ2bxTg67q9.png" ></a>
 
 成为赞助者，展示你的产品在这里，联系作者：relakkes@gmail.com
 
@@ -90,23 +81,6 @@
 - 支持保存到csv中（data/目录下）
 - 支持保存到json中（data/目录下）
 
-## MediaCrawler爬虫项目交流群：
-> 7天有效期，自动更新, 如果人满了可以加作者wx拉进群: yzglan，备注来自github.
-
-<div style="max-width: 200px">  
-<p><img alt="4群二维码" src="static/images/5群二维码.JPG" style="width: 200px;height: 100%" ></p>
-</div>
-
-
-## 打赏
-免费开源不易，如果项目帮到你了，可以给我打赏哦，您的支持就是我最大的动力！
-<div style="display: flex;justify-content: space-between;width: 100%">
-    <p><img alt="打赏-微信" src="static/images/wechat_pay.jpeg" style="width: 200px;height: 100%" ></p>
-    <p><img alt="打赏-支付宝" src="static/images/zfb_pay.png"   style="width: 200px;height: 100%" ></p>
-</div>
-
-## 爬虫入门课程
-我新开的爬虫教程Github仓库 [CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial) ，感兴趣的朋友可以关注一下，持续更新，主打一个免费.
 
 
 ## 运行报错常见问题Q&A
@@ -120,14 +94,6 @@
 
 ## 手机号登录说明
 ➡️➡️➡️ [手机号登录说明](docs/手机号登录说明.md)
-
-
-
-## star 趋势图
-- 如果该项目对你有帮助，star一下 ❤️❤️❤️
-
-[![Star History Chart](https://api.star-history.com/svg?repos=NanmiCoder/MediaCrawler&type=Date)](https://star-history.com/#NanmiCoder/MediaCrawler&Date)
-
 
 
 
